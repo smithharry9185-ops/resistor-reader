@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Runtime artifacts (PRD §12)
+readings.csv
+.tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
